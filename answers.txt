@@ -9,3 +9,7 @@ Answer: Data science could be applied in the field of sports analytics. For exam
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new commit, keeping the history of both branches. Rebasing moves your changes to an updated branch making the history easier to follow.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to find trends and apply ML to data. I also am looking forward to developing my skills using tools like pandas and SQL.
